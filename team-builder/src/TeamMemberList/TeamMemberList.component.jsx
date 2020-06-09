@@ -1,5 +1,6 @@
 import React from "react";
 import TeamMember from "../TeamMember/TeamMember.component";
+import "./TeamMemberList.css";
 
 const TeamMemberList = props => {
   const { members } = props;
